@@ -8,7 +8,9 @@ Switches: Kailh Choc V1
 - Pin placement is incompatible with Kailh Choc V2
 - *Blue* switches option are Kailh **Pale** Blue (don't ask me how I found out)
 
-MCU: PixArt PAR2862QN
+MCU:
+- Main: PixArt PAR2862QN
+- Co: [WT51F108S](http://www.weltrend.com/upload/website/product/WT51F108S_104S_DataSheet_EN_V1.0.pdf)
 
 Tools needed:
 
