@@ -31,9 +31,10 @@ Tools needed:
 ![Back](images/03.jpg)
 
 - Pry off the plastic covering the cable.
-  This reveals two additional screws that need to be removed.
 
 ![Plastic Cover](images/06.jpg)
+
+- Two additional screws are now revealed that need to be removed.
 
 ![Plastic Cover Off](images/07.jpg)
 
