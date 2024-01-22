@@ -23,7 +23,7 @@ Tools needed:
 
 ![Info](images/02.jpg)
 
-- Unscrew all screws on the back of the keyboard.
+- Remove all visible screws on the back of the keyboard.
   There are 3 different types of screws used here (A, B, C).
 
 ![Screw Types](images/screws.jpg)
@@ -31,6 +31,7 @@ Tools needed:
 ![Back](images/03.jpg)
 
 - Pry off the plastic covering the cable.
+  This reveals two additional screws that need to be removed.
 
 ![Plastic Cover](images/06.jpg)
 
