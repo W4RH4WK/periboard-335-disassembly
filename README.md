@@ -1,11 +1,11 @@
 # PERIBOARD-335 Disassembly
 
-This is a basic disassembly guide for the [PERIBOARD-335](https://perixx.com/collections/keyboards/products/px-ergonomic-mechanical-keyboard?variant=43501541916931) mechanical keyboard.
-This guide likely applies to the [PERIBOARD-535](https://perixx.com/collections/keyboards/products/px-ergonomic-mechanical-keyboard?variant=43501541818627), the full-size variant, as well.
+This is a basic disassembly guide for the [PERIBOARD-335](https://eu.perixx.com/products/perixx-ergo-mechanical-keyboard?variant=43836565061897) mechanical keyboard.
+This guide likely applies to the [PERIBOARD-535](https://eu.perixx.com/products/perixx-ergo-mechanical-keyboard?variant=43836564963593), the full-size variant, as well.
 It's an ergonomic, non-split, wired, mechanical, low-profile keyboard.
 
-Switches: Kailh Choc V1
-- Pin placement is incompatible with Kailh Choc V2
+Switches: ~~Kailh Choc V1~~
+- Pin placement is incompatible with Kailh Choc V1 and V2!
 - *Blue* switches option are Kailh **Pale** Blue (don't ask me how I found out)
 
 MCU:
